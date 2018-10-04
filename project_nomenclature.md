@@ -5,7 +5,7 @@ The objective is to ensure easier navigation through a naming convention that ma
 ## Key Repositories
 ### Community
 
-Propose having a common theme that reflects the goals of OpenSUTD throughout all naming conventions. This could resonate with a common mascot such as [Wapuu] (https://www.elmastudio.de/en/wapuu-the-official-wordpress-mascot/) to give OpenSUTD a friendly community vibe.
+Propose having a common theme that reflects the goals of OpenSUTD throughout all naming conventions. This could resonate with a common mascot such as [Wapuu](https://www.elmastudio.de/en/wapuu-the-official-wordpress-mascot/) to give OpenSUTD a friendly community vibe.
 
 ### Course Material
 
