@@ -4,9 +4,10 @@ OpenSUTD Community Standards for all members to abide by.
 
 ## Index
 
-* [Project Nomenclature on OpenSUTD](project_nomenclature.md)
-* [Contribution Guidelines for OpenSUTD Projects](contribution_guidelines.md)
-* [OpenSUTD Community Code of Conduct](code_of_conduct.md)
+* [Project Nomenclature on OpenSUTD](PROJECT_NOMENCLATURE.md)
+* [Contribution Guidelines for OpenSUTD Projects](CONTRIBUTING.md)
+* [OpenSUTD Community Code of Conduct](CODE_OF_CONDUCT.md)
+* [Inclusivity Clause](INCLUSIVITY.md)
 * [Automation on OpenSUTD](AUTOMATION.md)
 
 ## Important information
