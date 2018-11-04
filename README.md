@@ -1,6 +1,8 @@
 # community-standards
 
-OpenSUTD modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
+OpenSUTD modelled after the idea of an **Open Organisation**, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
+
+> An Open Organization is one that **engages participative communities both inside and out**; responds to opportunities more quickly, has access to resources and talent outside the organization, and **inspires, motivates, and empowers people at all levels to act**. **-[Open Organisation Definition](https://opensource.com/open-organization/resources/open-org-definition)**
 
 ## Important information
 
@@ -29,12 +31,4 @@ If you are interested in having a say, please open an issue!
 * [Automation on OpenSUTD](AUTOMATION.md)
   
   Some notes on the automation that happens in the GitHub organisation
-
-## Open Organisation
-
-What is an Open Organisation?
-
-> An Open Organization is one that **engages participative communities both inside and out**; responds to opportunities more quickly, has access to resources and talent outside the organization, and **inspires, motivates, and empowers people at all levels to act**.
-
-* [Open Organisation Definition](https://opensource.com/open-organization/resources/open-org-definition)
 
