@@ -2,6 +2,12 @@
 
 The objective is to ensure easier navigation through a naming convention that makes sense for typical use cases.
 
+## TLDR;
+
+* Use hyphens ("-") not underscores ("_")
+* Use logical naming conventions (use common sense, and keep in mind the large variety of repositories. Don't be too generic e.g. "AI-UROP")
+* Write good project descriptions and README.md
+
 ## Key Repositories
 ### Community
 
