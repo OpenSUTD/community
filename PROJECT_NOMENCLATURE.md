@@ -4,7 +4,9 @@ The objective is to ensure easier navigation through a naming convention that ma
 
 ## TLDR;
 
+* Lower-case only
 * Use hyphens ("-") not underscores ("_")
+  * Unless project specific conventions demand otherwise (Eg. ROS package standards)
 * Use logical naming conventions (use common sense, and keep in mind the large variety of repositories. Don't be too generic e.g. "AI-UROP")
 * Write good project descriptions and README.md
 
