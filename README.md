@@ -21,6 +21,8 @@ We are still working out the specifics of our contribution guidelines and code o
 
 If you are interested in having a say, please open an issue!
 
+If you're interested in looking at where you can contribute, look [here](https://github.com/search?q=org%3AOpenSUTD+label%3A%22help+wanted%22+is%3Aissue+is%3Aopen&unscoped_q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen).
+
 ## Index
 
 * [Project Nomenclature on OpenSUTD](PROJECT_NOMENCLATURE.md)
