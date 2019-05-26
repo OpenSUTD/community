@@ -1,8 +1,19 @@
-# community-standards
+# About OpenSUTD
+
+What OpenSUTD is
+
+* a way for people to spawn decentralised initiatives
+* an organic movement in school to embrace open sharing and discussion
+
+OpenSUTD is not
+
+* a fifth-row style organisation where there is the notion of a member vs non-member. The only thing we recognise is contributions.
+
+## OpenSUTD Community Standards
 
 OpenSUTD modelled after the idea of an **Open Organisation**, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
 
-> An Open Organization is one that **engages participative communities both inside and out**; responds to opportunities more quickly, has access to resources and talent outside the organization, and **inspires, motivates, and empowers people at all levels to act**. **-[Open Organisation Definition](https://opensource.com/open-organization/resources/open-org-definition)**
+> An Open Organization is one that **engages participative communities both inside and out**; responds to opportunities more quickly, has access to resources and talent outside the organization, and **inspires, motivates, and empowers people at all levels to act**. **- [Open Organisation Definition](https://opensource.com/open-organization/resources/open-org-definition)**
 
 ## Important information
 
