@@ -7,7 +7,9 @@ What OpenSUTD is
 
 OpenSUTD is not
 
-* a fifth-row style organisation where there is the notion of a member vs non-member. The only thing we recognise is contributions.
+* a fifth-row style organisation where there is the notion of a member vs non-member. The only thing we recognise is contributions
+
+For an living document describing how OpenSUTD developed to where it is today, take a look [here](https://hackmd.io/J4GmoWKrSA62X93c32s-tQ?view).
 
 ## OpenSUTD Community Standards
 
