@@ -1,17 +1,4 @@
-# About OpenSUTD
-
-What OpenSUTD is
-
-* a way for people to spawn decentralised initiatives
-* an organic movement in school to embrace open sharing and discussion
-
-OpenSUTD is not
-
-* a fifth-row style organisation where there is the notion of a member vs non-member. The only thing we recognise is contributions
-
-For an living document describing how OpenSUTD developed to where it is today, take a look [here](https://hackmd.io/J4GmoWKrSA62X93c32s-tQ?view).
-
-## OpenSUTD Community Standards
+# OpenSUTD Community Standards
 
 OpenSUTD modelled after the idea of an **Open Organisation**, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
 
