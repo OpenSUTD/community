@@ -30,7 +30,7 @@ What **shouldn't** be here:
 We hope that Fifth Rows will set up pages to improve accessibility to relevant information. This includes putting up their materials, knowledge management practices, or even an official fifth-row webpage (or something like a micro-site). Using GitHub, you can host static web pages for free!
 
 1. Learn more about [GitHub Pages](https://pages.github.com/).
-2. Create a GitHub repository. We recommend creating it inside the OpenSUTD GitHub organisation. Reach out to timothy_liu[at]mymail.sutd.edu.sg if you are not yet a member of the GitHub organisation.
+2. Create a GitHub repository. We recommend creating it inside the OpenSUTD GitHub organisation. Reach out to `timothy_liu[at]mymail.sutd.edu.sg` if you are not yet a member of the GitHub organisation.
 3. To request for a special subdomain (e.g. `ieee.opensutd.org`), please open an issue at [OpenSUTD/subdomains](https://github.com/OpenSUTD/subdomains).
 
 Existing fifth row pages:
@@ -41,4 +41,4 @@ Existing fifth row pages:
 
 This is the community repository. All material relevant to the advancement and maintenance of OpenSUTD are kept here and open for review and feedback, and shapes our direction as a Open Community.
 
-We're always looking for collaborators to act as community architects and evangelists to help us manage the community and drive new initiatives. If you are interested, reach out to us by emailing timothy_liu[at]mymail.sutd.edu.sg and qingze_hum[at]mymail.sutd.edu.sg!
+We're always looking for collaborators to act as community architects and evangelists to help us manage the community and drive new initiatives. If you are interested, reach out to us by emailing `timothy_liu[at]mymail.sutd.edu.sg` and `qingze_hum[at]mymail.sutd.edu.sg`!
